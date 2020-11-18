@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">篮球比赛计分器</string>
+    <string name="teamA">A 队</string>
+    <string name="teamB">B 队</string>
+    <string name="add_1">+1</string>
+    <string name="add_2">+2</string>
+    <string name="add_3">+3</string>
+    <string name="undo">撤回</string>
+    <string name="clear">清零</string>
+    <string name="author">Git-a-Live制作</string>
+    <string name="InitA" translatable="false">data_key_a</string>
+    <string name="InitB" translatable="false">data_key_b</string>
+    <string name="ScoreA" translatable="false">scoreA</string>
+    <string name="ScoreB" translatable="false">scoreB</string>
+</resources>
