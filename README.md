@@ -1,12 +1,9 @@
 # Basketball Scorer
 
-*This is a simple Android project made by Git-a-Live*
+*A simple birthday gift to my friend who loves playing basketball*
 ****
-## Introduction
-
-Basketball Scorer is an Android application based on Kotlin, created with Android Studio 3.6.1. The development environment is Java 13.
-
-It uses MVVM architecture, which means LiveData, DataBinding and ViewModel are applied. 
+## Preview
+![](icons/Screenshot_1608368866.png)
 ****
 
 ## Features
