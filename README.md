@@ -1,10 +1,9 @@
 # Basketball Scorer
 
 *A simple birthday gift to my friend who loves playing basketball*
-****
+
 ## Preview
 <img src="icons/Screenshot_1608368866.png" width=25%>
-****
 
 ## Features
 
