@@ -3,7 +3,7 @@
 *A simple birthday gift to my friend who loves playing basketball*
 ****
 ## Preview
-![](icons/Screenshot_1608368866.png)
+<img src="icons/Screenshot_1608368866.png" width=25%>
 ****
 
 ## Features
